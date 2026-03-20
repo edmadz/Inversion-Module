@@ -6,7 +6,7 @@
 Python implementation of the PSO, ABIC, and Li-Oldenburg gravity and
 aeromagnetic inversion suite developed for the PhD research programme at
 Istanbul University, Institute of Marine Sciences and Management.
-## [1.0.1] — 2026-03
+## [1.0.2] — 2026-03
 Developed and applied to the **southern Marmara Sea** dataset as part of
 a three-paper PhD publication strategy targeting *Marine Geophysical
 Research* and *Int. J. Environ. Geoinformatics*.
@@ -14,12 +14,12 @@ Research* and *Int. J. Environ. Geoinformatics*.
 ---
 
 ## Companion publications
-## [1.0.0] — 2025-03
+## [1.0.1] — 2025-09
 > Aygün MA, Demirel AS *(2026)* Automated digitisation and
 > integration of legacy geophysical maps: a reproducible Python workflow
 > applied to the southern Marmara Sea.
 > *Int. J. Environ. Geoinformatics*
-## [1.0.0] — 2026-03
+## [1.0.2] — 2026-03
 > Aygün MA, Demirel AS *(2026 in press-b)* Crustal density structure and
 > basement configuration in the southern Marmara Sea: insights from
 > integrated gravity analysis of legacy datasets.
@@ -47,8 +47,8 @@ Research* and *Int. J. Environ. Geoinformatics*.
 
 ```bash
 # Clone the repository
-git clone https://github.com/edmadz/MapDigitizer-Module.git
-cd MapDigitizer-Module
+git clone https://github.com/edmadz/Inversion-Module.git
+cd Inversion-Module
 
 # Install dependencies
 pip install -r requirements.txt
@@ -231,7 +231,7 @@ listed above and this repository:
                inversion suite for gravity and aeromagnetic data},
   year      = {2026},
   publisher = {GitHub},
-  url       = {https://github.com/edmadz/MapDigitizer-Module}
+  url       = {https://github.com/edmadz/Inversion-Module}
 }
 ```
 
