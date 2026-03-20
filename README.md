@@ -7,9 +7,9 @@ Python implementation of the PSO, ABIC, and Li-Oldenburg gravity and
 aeromagnetic inversion suite developed for the PhD research programme at
 Istanbul University, Institute of Marine Sciences and Management.
 ## [1.0.2] — 2026-03
-Developed and applied to the **southern Marmara Sea** dataset as part of
-a three-paper PhD publication strategy targeting *Marine Geophysical
-Research* and *Int. J. Environ. Geoinformatics*.
+Developed and applied to the **southern Marmara Sea** dataset as part of 
+three-paper publication submitting targeting from PhD Thesis of M.A.A. to
+*Marine Geophysical Research* and *Int. J. Environ. Geoinformatics* (*IJEGEO*).
 
 ---
 
